@@ -1,0 +1,55 @@
+.footer{
+    display: flex;
+    margin-top: 200px;
+    background-color:black;
+    color: white;
+}
+body{
+    background-image: url("LIA.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: hover;
+    background-size: cover;
+
+}
+h1{border-width: 20px;
+    border: 40px;
+    border: outset;
+    background-color:blueviolet;
+    padding: 2px;
+    margin-left: 20px;
+    margin-right: 700px;
+}
+.header{
+    display:flex;
+    margin-right: 40px;
+    background-color: azure;
+    
+  }  
+p{
+    font-size: larger;
+}
+
+li{
+   list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+.h{
+    border-radius: 10%;
+    border: 10%;
+}
+.odd{
+    border: 10%;
+    border-radius: 10%;
+    border-left: 10%;
+    border-color: aqua;
+}
+table{
+    background-color: brown;
+    table-layout: fixed;
+}
